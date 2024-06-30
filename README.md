@@ -10,6 +10,8 @@
     - Use **SSP scenario**
 - Framework : **PyTorch**
 - model type : Temporal Fusion Transfomer(TFT) / N-BEATS / Transformer / Prophet
+- main reference 1 : https://www.sciencedirect.com/science/article/pii/S0169207021000637
+- main reference 2 : https://arxiv.org/abs/1905.10437
 - TFT는 모델 특성상 사용할 수 있는 데이터가 단변량 모델보다 많으므로, 2가지 시나리오(SSP1 & SSP3)로 결과 도출
 - Flow Chart
 <img src="./plot/FlowChart.png">
